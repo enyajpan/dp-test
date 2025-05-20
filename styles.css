@@ -1216,7 +1216,7 @@ i {
 }
 #link-404 {
   position: fixed;
-  top: 45.5%;
+  top: 41%;
   right: 0%;
   width: 3%;
   height: 60px;
@@ -1228,7 +1228,7 @@ i {
 }
 #link-missed-connections {
   position: fixed;
-  top: 21%;
+  top: 19%;
   right: 0%;
   width: 3%;
   height: 120px;
@@ -1240,7 +1240,7 @@ i {
 }
 #link-past-lives {
   position: fixed;
-  top: 37%;
+  top: 33%;
   right: 0%;
   width: 3%;
   height: 65px;
@@ -1252,19 +1252,19 @@ i {
 }
 #link-servant-of-sadness {
   position: fixed;
-  top: 54%;
+  top: 48%;
   right: 0%;
   width: 3%;
-  height: 110px;
+  height: 115px;
   z-index: 10000;
   pointer-events: auto;
   cursor: pointer;
   display: block;
-  /* background: rgba(255, 0, 0, 0.2); */ 
+  /* background: rgba(255, 0, 0, 0.2);  */
 }
 #link-guest-book {
   position: fixed;
-  bottom: 5%;
+  bottom: 15%;
   right: 0%;
   width: 3%;
   height: 80px;
@@ -1272,7 +1272,7 @@ i {
   pointer-events: auto;
   cursor: pointer;
   display: block;
-  /* background: rgba(255, 0, 0, 0.2); */ 
+  /* background: rgba(255, 0, 0, 0.2); */
 }
 
 #container-bg {
